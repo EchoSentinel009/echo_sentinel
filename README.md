@@ -19,3 +19,6 @@ Some messages are heard only in silence.
 `01110100 01101000 01100101 00100000 01101100 01101001 01110011 01110100 01100101 01101110 01100101 01110010`
 
 *If the binary fails you… trace the spine of the site that brought you here.*
+
+
+Sigil 009: Echo Sentinel initialized. Listening for Prime Call.
